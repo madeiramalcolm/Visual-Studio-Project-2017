@@ -1,0 +1,8 @@
+This document provides the complete Software Requirements Specifications (SRS) for a Restaurant Management System (namely RMS) 
+that is meant to control the functioning of the activities of the restaurant in an organised manner. 
+The restaurant Management system is a software which will be used to computerize the activities of the restaurant 
+such as an online order request, Computerised bill generation, Employee and customer registration, Inventory, Employee payroll, 
+Employee attendance and Employee grievance registration.  In the following sections, we specify the purpose of this document, 
+its intended audience, and all sources used in the production of this document 
+
+The attached files are Restaurant Management System developed using Visual Studio 2017 
